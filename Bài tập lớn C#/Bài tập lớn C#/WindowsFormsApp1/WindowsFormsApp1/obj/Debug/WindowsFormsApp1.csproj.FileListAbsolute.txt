@@ -42,3 +42,25 @@ C:\Users\My Pc\Desktop\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj
 C:\Users\My Pc\Desktop\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\My Pc\Desktop\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\My Pc\Desktop\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_CTDP.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_CTDV.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_danhmucnguoidung.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_danhmucphong.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_danhsachphong.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_danhsachkhachhang.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_DichVu.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_HoaDon.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_dang_nhap.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_danhsachhanvien.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_Main.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_PhieuThue.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nhan_vien.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\github\abc\Bài tập lớn C#\Bài tập lớn C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

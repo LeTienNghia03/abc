@@ -18,6 +18,7 @@ namespace WindowsFormsApp1
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form_dang_nhap());
             Console.WriteLine("Hi");
+            Console.WriteLine("Haaa");
         }
     }
 }
